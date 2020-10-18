@@ -65,7 +65,7 @@ img {
 
 blockquote {
   margin: 10px 20px 10px;
-  padding: 0px 15px;
+  padding: 0 15px;
   border-left: 0.25em solid #ccc;
   color: #999;
   line-height: 1.5;
@@ -144,7 +144,7 @@ hr {
 
 .posts {
   margin-bottom: 5rem;
-  padding: 0px;
+  padding: 0;
   list-style: none;
 }
 
@@ -168,7 +168,7 @@ hr {
 }
 
 .related-posts {
-  padding-left: 0px;
+  padding-left: 0;
   list-style: none;
 }
 
@@ -258,7 +258,7 @@ hr {
 @media (max-width: 30em) {
   .social-icons {
     float: left;
-    padding-top: 0px;
+    padding-top: 0;
   }
   .menu-content {
     margin-bottom: 5px;
