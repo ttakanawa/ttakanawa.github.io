@@ -1,0 +1,38 @@
+<script type=application/ld+json>
+  {
+    "@context": "http://schema.org",
+    "@type": "Blog",
+    "headline": "{{ page.title }}",
+    "description": "{{ content | strip_html | truncate: 50 }}",
+    "datePublished": "{{ page.date | date: '%Y%m%d' }}",
+    "dateModified": "{{ page.date | date: '%Y%m%d' }}",
+    "publisher": {
+      "@type": "Person",
+      "name": "{{ site.author }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.github.url }}/favicon.ico",
+        "width": 13,
+        "height": 13
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.github.url }}{{ page.url }}"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.github.url }}/favicon.ico",
+        "width": 13,
+        "height": 13
+      }
+    },
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ site.github.url }}/assets/img/{{ page.image }}"
+    }
+  }
+</script>
