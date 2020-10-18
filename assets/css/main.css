@@ -152,7 +152,7 @@ hr {
   display: block;
   margin-top:3px;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #767676;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
 }
@@ -191,7 +191,7 @@ hr {
 }
 
 .pagination-button {
-  color: #999;
+  color: #767676;
   border: 1px solid #e0e0e0;
   padding: 15px 45px;
   display: inline-block;
@@ -218,7 +218,7 @@ hr {
 }
 
 .footer a {
-  color: #999;
+  color: #767676;
   padding: 10px;
   text-decoration: none;
 }
@@ -241,7 +241,7 @@ hr {
 }
 
 .menu-content a {
-  color: #999;
+  color: #767676;
   font-size: 1rem;
   padding-right: 10px;
 }
