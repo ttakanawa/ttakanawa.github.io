@@ -185,6 +185,33 @@ hr {
   font-size:0.8rem;
 }
 
+.sharing-button-prompt {
+    display: block;
+    margin-top:3px;
+    color: #767676;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size:0.8rem;
+}
+
+.post-body {
+  margin-bottom: 3rem;
+}
+
+.end-of-post {
+  display: flex;
+  justify-content: space-between;
+}
+
+.end-of-post > .post-date {
+  display: flex;
+  align-items: flex-end;
+  margin: 0
+}
+
+.end-of-post > .social-sharing {
+  text-align: center;
+}
+
 @media (max-width: 30rem) {
   .posts h1 {
     font-size: 1.5rem;
