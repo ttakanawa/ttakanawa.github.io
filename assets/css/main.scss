@@ -1,7 +1,10 @@
 ---
 ---
 
-$light: #767676;
+$light: #767676 !default;
+$font-family-sans-serif: "Quattrocento Sans", sans-serif !default;
+$font-family-serif: "PT Serif", Georgia, "Times New Roman", serif !default;
+$font-family-code: "Source Code Pro", monospace !default;
 
 /*
   Contents:
@@ -23,7 +26,7 @@ $light: #767676;
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: $font-family-serif;
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
@@ -70,7 +73,7 @@ h1 a {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: $font-family-sans-serif;
   color: #333;
 }
 
@@ -127,7 +130,7 @@ hr {
 .masthead {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: $font-family-sans-serif;
 }
 
 .masthead a:hover {
@@ -185,7 +188,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: $light;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: $font-family-sans-serif;
   font-size:0.8rem;
 }
 
@@ -201,7 +204,7 @@ hr {
     display: block;
     margin-top:3px;
     color: $light;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: $font-family-sans-serif;
     font-size:0.8rem;
 }
 
@@ -252,7 +255,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: $font-family-sans-serif;
   text-align: center;
 }
 
@@ -332,7 +335,7 @@ hr {
 
 code,
 pre {
-  font-family: "Source Code Pro", monospace;
+  font-family: $font-family-code;
 }
 code {
   padding: .25em .5em;
@@ -377,7 +380,7 @@ pre.highlight {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: "Source Code Pro", monospace !important;
+    font-family: $font-family-code !important;
 }
 .gist .markdown-body {
   padding: 15px;
