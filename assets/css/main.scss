@@ -1,3 +1,8 @@
+---
+---
+
+$light: #767676;
+
 /*
   Contents:
     Base
@@ -179,15 +184,23 @@ hr {
   display: block;
   margin-top:3px;
   margin-bottom: 1rem;
-  color: #767676;
+  color: $light;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
+}
+
+.photo-by {
+  display: block;
+  text-align: right;
+  font-size:0.8rem;
+  color: $light;
+  margin-bottom: 1rem;
 }
 
 .sharing-button-prompt {
     display: block;
     margin-top:3px;
-    color: #767676;
+    color: $light;
     font-family: 'Quattrocento Sans', sans-serif;
     font-size:0.8rem;
 }
@@ -248,7 +261,7 @@ hr {
 }
 
 .pagination-button {
-  color: #767676;
+  color: $light;
   border: 1px solid #e0e0e0;
   padding: 15px 45px;
   display: inline-block;
@@ -275,7 +288,7 @@ hr {
 }
 
 .footer a {
-  color: #767676;
+  color: $light;
   padding: 10px;
   text-decoration: none;
 }
@@ -299,7 +312,7 @@ hr {
 }
 
 .menu-content a {
-  color: #767676;
+  color: $light;
   font-size: 1rem;
   padding-right: 10px;
 }
