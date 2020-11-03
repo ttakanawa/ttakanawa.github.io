@@ -8,7 +8,7 @@ Software Engineer in Tokyo.
 ## Works
 
 - [futakine](https://www.futakine.com)
-- [futakine portal](https://futakine.herokuapp.com/)
+- [futakine portal](https://portal.futakine.com/)
 
 ## Links
 
