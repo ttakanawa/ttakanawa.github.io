@@ -12,5 +12,7 @@ Software Engineer in Tokyo.
 
 ## Links
 
-* [@yawnkinsfolk at GitHub](https://github.com/yawnkinsfolk)
-* [@yawnkinsfolk at Twitter](https://twitter.com/yawnkinsfolk)
+- [@yawnkinsfolk at GitHub](https://github.com/yawnkinsfolk)
+- [@yawnkinsfolk at Twitter](https://twitter.com/yawnkinsfolk)
+- [@yawnkinsfolk at Flickr](https://www.flickr.com/people/yawnkinsfolk) 
+- [@yawnkinsfolk at Instagram](https://www.instagram.com/yawnkinsfolk) 
