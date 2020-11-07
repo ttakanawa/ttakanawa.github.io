@@ -9,10 +9,10 @@ cc: {url: 'https://flic.kr/p/7UKXRd', author: JamesRoseUK}
 
 ## TL;DR
 
-- I built PHP 7.0 because not found the package in apt.
-- I learned about what installation in computers is. (a bit)
-- The reason why I don't use something useful like ppa(personal package archive)
-- I learned to appreciate package managers.
+- This is my first time to build programming language in spite of web/software engineer.
+- There are some reason which I built PHP, but most important reason for me is that I thought the professional may use proper tools including programming language.
+- I learned about what installation in computers is through building PHP. (a bit)
+- I realized to appreciate the package managers such as homebrew , apt and so on.
 
 ## Why I built PHP
 
@@ -48,6 +48,10 @@ It's good experience, I can now say "Yeah, I have built programming languages su
 
 I also got a better understanding of what "installation" means on a computer.
 I used to install an app via GUI without thinking about it, but if you know what the installing is and how it is installed, you will be able to cope with the trouble.
+
+And I realized the package managers such as homebrew, apt and so on are so useful. For example, homebrew optimized the packages(formulas) by enabling some modules. 
+That configuration is useful for many users including multibyte users, and most users can use installed PHP without thinking about it.
+PHP has so many configure options, and it is difficult to judge what is proper for your environment, so the like homebrew is a very useful tool. 
 
 ## Future Goals
 
