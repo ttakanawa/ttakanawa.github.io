@@ -10,7 +10,7 @@ cc: {url: 'https://flic.kr/p/7UKXRd', author: JamesRoseUK}
 ## TL;DR
 
 - This is my first time to build programming language in spite of web/software engineer.
-- There are some reason which I built PHP, but most important reason for me is that I thought the professional may use proper tools including programming language.
+- There are some reasons which I built PHP, but most important reason for me is that I thought the professional may use proper tools including programming language.
 - I learned about what installation in computers is through building PHP. (a bit)
 - I realized to appreciate the package managers such as homebrew , apt and so on.
 
