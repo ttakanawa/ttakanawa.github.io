@@ -44,6 +44,8 @@ cd /usr/local/src/php-7.2.32
 ```
 
 Generate Makefile.
+PHP has so many options, so you should look up and optimize your settings, but you could try this options at first.
+Don’t worry. the options you used will be recorded on the Makefile, so you can check them later. That's very useful, isn't it?
 
 ```bash
 sudo ./configure \
