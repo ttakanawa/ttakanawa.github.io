@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "I built PHP"
-categories: journal
 tags: [php]
 image: elephant.jpg
 cc: {url: 'https://flic.kr/p/7UKXRd', author: JamesRoseUK}
