@@ -2,7 +2,7 @@
 layout: post
 title: "I built PHP"
 tags: [php]
-image: elephant.jpg
+image: /assets/img/elephant.jpg
 cc: {url: 'https://flic.kr/p/7UKXRd', author: JamesRoseUK}
 ---
 

@@ -10,13 +10,13 @@ layout: default
 {% if page.image %}
   {% if page.cc %}
   <a href="{{ page.cc.url }}">
-    <img src="{{ site.github.url }}/assets/img/{{ page.image }}" alt="{{ page.title }}">
+    <img src="{{ site.github.url }}{{ page.image }}" alt="{{ page.title }}">
   </a>
   <div class="photo-by">
     photo by <a href="{{ page.cc.url }}">{{ page.cc.author }}</a>
   </div>
   {% else %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}" alt="{{ page.title }}">
+  <img src="{{ site.github.url }}{{ page.image }}" alt="{{ page.title }}">
   {% endif %}
 {% endif %}
 
