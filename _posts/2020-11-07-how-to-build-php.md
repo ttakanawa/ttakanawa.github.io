@@ -74,7 +74,7 @@ I will describe the errors I faced and the steps I took to resolve them.
 > ```
 > ```bash
 > which apxs
-> => replase the output. (/usr/bin/apxs)
+> => Replace --with-apxs2 option to the output. (/usr/bin/apxs)
 > ```
 > ```bash
 > sudo apt install -y apache2-dev
