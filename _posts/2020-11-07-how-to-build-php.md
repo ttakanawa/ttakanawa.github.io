@@ -2,7 +2,7 @@
 layout: post
 title: "How to build old PHP"
 tags: [php,linux,ubuntu,wsl]
-image: elephant_2.jpg
+image: /assets/img/elephant_2.jpg
 cc: {url: 'https://flic.kr/p/bbfBZH', author: Laura Kay}
 ---
 
