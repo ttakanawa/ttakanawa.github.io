@@ -71,7 +71,10 @@ I will describe the errors I faced and the steps I took to resolve them.
 > fixed them
 > ```bash
 > sudo apt install -y perl
-> which apxs # => /usr/bin/apxs 置き換える
+> 
+> which apxs
+> => replase the output. (/usr/bin/apxs)
+> 
 > sudo apt install -y apache2-dev
 > ```
 
