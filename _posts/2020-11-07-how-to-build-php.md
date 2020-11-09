@@ -132,7 +132,7 @@ make install
 > sudo apt upgrade -y apache2
 > ```
 
-I want to use several versions of PHP, depending on the situation, so set up the symbolic link.
+I want to use several versions of PHP depending on the situation, so set up the symbolic link.
 
 First, check where the PHP. It is in the location you specified when you ran the configure script.
 The following is `/usr/local/php-7.2.32`.
