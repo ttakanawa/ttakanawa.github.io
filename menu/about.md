@@ -16,3 +16,4 @@ Software Engineer in Tokyo.
 - [Twitter](https://twitter.com/yawnkinsfolk)
 - [Flickr](https://www.flickr.com/people/yawnkinsfolk) 
 - [Instagram](https://www.instagram.com/yawnkinsfolk)
+- [Kaggle](https://www.kaggle.com/yawnkinsfolk)
