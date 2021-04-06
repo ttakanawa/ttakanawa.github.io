@@ -20,4 +20,4 @@ This bug cause is double quotations I put them on my zsh PROMPT. When you use do
 So you should use single quotes on PROMPT. Sadly I struggled this problem for a few hours. Thank you. 
 
 ![The diff of the commit which single quotes and double quotes](assets/img/2021-02-12-do-not-use-double-quotations-on-your-prompt/screen_shot_1.png)
-The diff commit is [c9499d09](https://github.com/yawnkinsfolk/dotfiles/commit/c9499d0935b0ba7edf4a5c02f3ef54b037d69c7c?branch=c9499d0935b0ba7edf4a5c02f3ef54b037d69c7c&diff=unified) which is my github repository I store my dotfiles.
+The diff commit is [c9499d09](https://github.com/ttakanawa/dotfiles/commit/c9499d0935b0ba7edf4a5c02f3ef54b037d69c7c?branch=c9499d0935b0ba7edf4a5c02f3ef54b037d69c7c&diff=unified) which is my github repository I store my dotfiles.

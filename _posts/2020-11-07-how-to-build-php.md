@@ -163,4 +163,4 @@ update-alternatives --config php
 
 That's all. From now on, you can install another version following the above instructions.
 
-If you have found some mistakes and unknown points, I'd be happy to me know [tweeting at me](https://twitter.com/intent/tweet?text=%40yawnkinsfolk).
+If you have found some mistakes and unknown points, I'd be happy to me know [tweeting at me](https://twitter.com/intent/tweet?text=%40_takanawa_).

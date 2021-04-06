@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Yawn Kinsfolk's Blog"
+title:		           "Tomonori Takanawa's Blog"
 description:	       'Programming, Tech and Gadgets.'
-author:              'Yawn Kinsfolk'
+author:              'Tomonori Takanawa'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
