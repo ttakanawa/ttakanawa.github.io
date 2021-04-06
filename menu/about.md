@@ -14,5 +14,5 @@ Software Engineer in Tokyo.
 
 - [GitHub](https://github.com/yawnkinsfolk)
 - [Twitter](https://twitter.com/yawnkinsfolk)
-- [Flickr](https://www.flickr.com/people/yawnkinsfolk) 
+- [Flickr](https://www.flickr.com/people/takanawa) 
 - [Kaggle](https://www.kaggle.com/yawnkinsfolk)
