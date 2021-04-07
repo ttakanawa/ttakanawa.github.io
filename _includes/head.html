@@ -1,6 +1,7 @@
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180639574-1"></script>
+
+  <!-- Google Analytics -->
+  {% include google-analytics.html %}
 
   <title>
     {% if page.title == "Home" %}
@@ -34,9 +35,6 @@
         }
       });
   </script>
-
-  <!-- Google Analytics -->
-  {% include google-analytics.html %}
 
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
