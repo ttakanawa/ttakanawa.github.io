@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do not use double quotations on your PROMPT"
+categories: blog
 tags: [zsh,bash, shell scripting language, git]
 image: /assets/img/terminal_zsh.jpg
 cc: {url: 'https://flic.kr/p/gy8nEU', author: gamebouille}
