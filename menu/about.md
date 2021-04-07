@@ -10,9 +10,14 @@ Software Engineer in Tokyo.
 - [futakine](https://www.futakine.com)
 - [futakine portal](https://portal.futakine.com/)
 
-## Links
+## Social Media
+
+- [Twitter](https://twitter.com/_takanawa_)
+- [Facebook](https://www.facebook.com/takanawa/)
+- [Flickr](https://www.flickr.com/people/takanawa) 
+
+## Tech Activities
 
 - [GitHub](https://github.com/ttakanawa)
-- [Twitter](https://twitter.com/_takanawa_)
-- [Flickr](https://www.flickr.com/people/takanawa) 
 - [Kaggle](https://www.kaggle.com/takanawa)
+- [AtCoder](https://atcoder.jp/users/tknw)
