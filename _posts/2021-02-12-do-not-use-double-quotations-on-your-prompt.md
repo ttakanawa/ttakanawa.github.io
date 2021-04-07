@@ -8,7 +8,7 @@ cc: {url: 'https://flic.kr/p/gy8nEU', author: gamebouille}
 
 tldr is this tweet below.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">like this. <a href="https://t.co/PAnzshoafV">https://t.co/PAnzshoafV</a> <a href="https://t.co/hnxcHDAAIP">pic.twitter.com/hnxcHDAAIP</a></p>&mdash; Yawn Kinsfolk (@yawnkinsfolk) <a href="https://twitter.com/yawnkinsfolk/status/1359924142439452674?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">like this. <a href="https://t.co/PAnzshoafV">https://t.co/PAnzshoafV</a> <a href="https://t.co/hnxcHDAAIP">pic.twitter.com/hnxcHDAAIP</a></p>&mdash; Tomonori Takanawa (@_takanawa_) <a href="https://twitter.com/_takanawa_/status/1359924142439452674?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 First of all, I knew the difference of single quotations and double quotations on shell scripting language (especially bash and zsh), the former wouldn't expand the variables yet the latter would, but I'm not sure function with them work on PROMPT.
 So I will write the point what happen when you use double quotes on you PROMPT just in case such as the tweet would be deleted.
