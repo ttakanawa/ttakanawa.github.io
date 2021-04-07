@@ -21,3 +21,6 @@ Software Engineer in Tokyo.
 - [GitHub](https://github.com/ttakanawa)
 - [Kaggle](https://www.kaggle.com/takanawa)
 - [AtCoder](https://atcoder.jp/users/tknw)
+
+
+If you are having any problems, any questions or suggestions, feel free to [mail to me](mailto:takanawa@hey.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40_takanawa_).
