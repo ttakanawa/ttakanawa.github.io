@@ -14,6 +14,7 @@ Software Engineer in Tokyo.
 
 - [Twitter](https://twitter.com/_takanawa_)
 - [Facebook](https://www.facebook.com/takanawa/)
+- [LinkedIn](https://www.linkedin.com/in/takanawa/)
 - [Flickr](https://www.flickr.com/people/takanawa) 
 
 ## Tech Activities
