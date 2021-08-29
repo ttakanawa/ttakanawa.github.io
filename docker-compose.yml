@@ -8,3 +8,5 @@ services:
       - 4000:4000
     volumes:
       - .:/srv/jekyll
+    environment:
+      BUNDLE_PATH: "/usr/gem"
