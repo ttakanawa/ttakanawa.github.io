@@ -5,7 +5,7 @@ services:
     image: jekyll/jekyll:4.0.0
     command: jekyll serve --watch --force_polling --verbose
     ports:
-      - 4000:4000
+      - "4000:4000"
     volumes:
       - .:/srv/jekyll
     environment:
