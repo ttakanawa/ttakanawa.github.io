@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Movies and TV Shows Watch in 2022"
+title: "Movies Watch in 2022"
 categories: blog
 tags: ['movies']
+published: false
 ---
 
 This is a list of movies I watched in 2022 and earlier.
