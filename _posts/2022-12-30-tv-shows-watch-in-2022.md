@@ -3,7 +3,6 @@ layout: post
 title: "TV Shows Watch in 2022"
 categories: blog
 tags: ['tv-shows']
-published: false
 ---
 
 This is a list of TV shows I watched in 2022 and earlier.
