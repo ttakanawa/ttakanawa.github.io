@@ -6,13 +6,16 @@ tags:
 ---
 
 Firstly, check the status if the chronyd is started.
+
+*Note: depending on the environment, you can use "service" instead of "systemctl"*
+
 ```
-service chronyd status
+systemctl chronyd status
 ```
 
 Stop the chronyd that is the daemon to sync the system clock.
 ```
-service chronyd stop
+systemctl chronyd stop
 ```
 
 Set the time on the system clock to specified time.
@@ -23,10 +26,10 @@ date --set="04/26 16:24 2022"  # same with above
 
 When you want to sync the system clock, run the command below.
 ```
-service chronyd start
+systemctl chronyd start
 ```
 
 And check the status just in case.
 ```
-service chronyd status
+systemctl chronyd status
 ```
