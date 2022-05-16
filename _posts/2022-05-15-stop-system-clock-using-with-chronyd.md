@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stop system clock using with chronyd"
+title: "Change system clock using with chronyd"
 categories: blog
 tags:
 ---
