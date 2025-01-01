@@ -5,10 +5,10 @@ title: About Me
 
 Software Engineer in Tokyo.
 
-## Works
+<!-- ## Works -->
 
-- [futakine](https://www.futakine.com)
-- [futakine portal](https://portal.futakine.com/)
+<!-- - [futakine](https://www.futakine.com)
+- [futakine portal](https://portal.futakine.com/) -->
 
 ## Social Media
 
